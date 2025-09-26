@@ -1,6 +1,8 @@
 # NeuroTri2-VISDOT
 
-This repository contains the data and code for [NeuroTri2-VISDOT](bhojlab.shinyapps.io/NeuroTri2-VISDOT).
+NeuroTri2-VISDOT is a web-based data visualization tool that allows users to enter gene names to generate individual or side by side plots of gene expression in cell types of their choosing in the second trimester developing. The data visualized here were previously published in Bhaduri et al 2021. 
+
+For best use of the ShinyApp, please reference Supplemental Video 1. In brief, please use HGNC gene symbols consistent with Ensembl version 110. Multiple genes can be plotted together, as long as the gene names are space separated. All plots generated in the main text utilized this exact user interface. You can further customize the data visualization by selecting/deselecting cell types of interest and selecting specific scale plots. 
 
 ## Files
 
